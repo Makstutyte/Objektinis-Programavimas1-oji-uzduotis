@@ -1,3 +1,3 @@
-# Objektinis1
+# Objektinis Programavimas 1-oji užduotis
 
-llllllllllllllllllllllllllllllllllllllll
+Įrėmintas pasisveikinimas
