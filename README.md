@@ -17,10 +17,17 @@ Norint paleisti programos kodą reikia:
 ## Programos naudojimas 
 Vartotojo veiksmų seka: 
 1. Įvedamas vardas 
-2. Įvedamas realusis teigiamas skaičius, nurodantis norimą "rėmelio" dydį (įvedus netinkamo formato duomenis, programa paprašys iš naujo įvesti teigiamą skaičių, nurodantį "rėmelio" dydį) Po šios veiksmų sekos atspausdinamas "įrėmintas" pasisveikinimas. 
+2. Įvedamas realusis teigiamas skaičius, nurodantis norimą "rėmelio" dydį 
+   (įvedus netinkamo formato duomenis, programa paprašys iš naujo  įvesti teigiamą skaičių, nurodantį "rėmelio" dydį)
+
+Po šios veiksmų sekos atspausdinamas "įrėmintas" pasisveikinimas. 
 
 ## Releases 
-<br />[v1.0](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v1.0)
-Galutinė programos versija * Patobulinta antroji programos versija. Programoje vartotojui yra suteikiama galimybė pasirinkti "rėmelio" dydį. 
-<br />[v0.2](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v0.2) Antroji programos versija * Patobulinta pirmoji programos versija. Programa atpažįsta vartotojo įvesto vardo giminę (moteriška arba vyriška) ir atitinkamai modifikuoja pasisveikinimą (sąlyga galioja įvedamiems lietuviškiems vardams) 
-<br />[v0.1](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v0.1) Pirmoji programos versija * Programa atspausdina penkių eilučių "rėmelį". Kiekviena "rėmelio" eilutė yra saugoma atskirame kintamajame.
+Galutinė programos versija <br />[v1.0](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v1.0)
+* Patobulinta antroji programos versija. Programoje vartotojui yra suteikiama galimybė pasirinkti "rėmelio" dydį. 
+
+Antroji programos versija <br />[v0.2](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v0.2) 
+* Patobulinta pirmoji programos versija. Programa atpažįsta vartotojo įvesto vardo giminę (moteriška arba vyriška) ir atitinkamai modifikuoja pasisveikinimą (sąlyga galioja įvedamiems lietuviškiems vardams) 
+
+Pirmoji programos versija <br />[v0.1](https://github.com/Makstutyte/Objektinis-Programavimas1-oji-uzduotis/releases/tag/v0.1) 
+* Programa atspausdina penkių eilučių "rėmelį". Kiekviena "rėmelio" eilutė yra saugoma atskirame kintamajame.
